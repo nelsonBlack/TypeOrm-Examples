@@ -1,0 +1,23 @@
+{
+  "name": "typeorm3",
+  "version": "0.0.1",
+  "description": "Future of typeorm lies in our hands .... lol",
+  "main": "app.js",
+  "scripts": {
+    "tsc":"tsc",
+    "start":"npm run tsc"
+  },
+  "keywords": [
+    "typeorm",
+    "nodejs",
+    "typescript"
+  ],
+  "author": "Meegada Mahesh",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^8.0.19",
+    "mysql": "^2.14.1",
+    "reflect-metadata": "^0.1.10",
+    "typeorm": "0.1.0-alpha.33"
+  }
+}
